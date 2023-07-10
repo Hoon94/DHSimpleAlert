@@ -1,6 +1,6 @@
 # DHSimpleAlert
 
-[![CI Status](https://img.shields.io/travis/43189761/DHSimpleAlert.svg?style=flat)](https://travis-ci.org/43189761/DHSimpleAlert)
+[![CI Status](https://img.shields.io/travis/Hoon94/DHSimpleAlert.svg?style=flat)](https://travis-ci.org/Hoon94/DHSimpleAlert)
 [![Version](https://img.shields.io/cocoapods/v/DHSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/DHSimpleAlert)
 [![License](https://img.shields.io/cocoapods/l/DHSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/DHSimpleAlert)
 [![Platform](https://img.shields.io/cocoapods/p/DHSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/DHSimpleAlert)
@@ -22,7 +22,7 @@ pod 'DHSimpleAlert'
 
 ## Author
 
-43189761, dleognsdl1@naver.com
+Hoon94, dleognsdl1@naver.com
 
 ## License
 

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  DHSimpleAlert
 //
-//  Created by 43189761 on 07/10/2023.
-//  Copyright (c) 2023 43189761. All rights reserved.
+//  Created by Hoon94 on 07/10/2023.
+//  Copyright (c) 2023 Hoon94. All rights reserved.
 //
 
 import UIKit

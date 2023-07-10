@@ -1,0 +1,22 @@
+{
+  "name": "DHSimpleAlert",
+  "version": "0.1.0",
+  "summary": "A short description of DHSimpleAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/43189761/DHSimpleAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "43189761": "dleognsdl1@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/43189761/DHSimpleAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DHSimpleAlert/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module DHSimpleAlert {
+  umbrella header "DHSimpleAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

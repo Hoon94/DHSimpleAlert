@@ -1,0 +1,16 @@
+PODS:
+  - DHSimpleAlert (0.1.0)
+
+DEPENDENCIES:
+  - DHSimpleAlert (from `../`)
+
+EXTERNAL SOURCES:
+  DHSimpleAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DHSimpleAlert: a9292fb9cf2e02806ba24d773d3c65eb02c44143
+
+PODFILE CHECKSUM: c8e4fed2ffe91f5cab777ff527221b31a39f6493
+
+COCOAPODS: 1.11.3
