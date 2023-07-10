@@ -1,15 +1,13 @@
 # DHSimpleAlert
 
-[![CI Status](https://img.shields.io/travis/43189761/DHSimpleAlert.svg?style=flat)](https://travis-ci.org/43189761/DHSimpleAlert)
 [![Version](https://img.shields.io/cocoapods/v/DHSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/DHSimpleAlert)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/cocoapods/l/DHSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/DHSimpleAlert)
 [![Platform](https://img.shields.io/cocoapods/p/DHSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/DHSimpleAlert)
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
